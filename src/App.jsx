@@ -21,7 +21,7 @@ function App() {
           
           <div className="dropdown">
             <a
-              href="https://github.com/sheydakate-source"
+              href="https://github.com/sheydakate"
               target="_blank"
               rel="noopener noreferrer"
             >
