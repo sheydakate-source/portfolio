@@ -23,7 +23,7 @@ function App() {
             <a
               href="https://github.com/sheydakate-source"
               target="_blank"
-              rel="moopener noreferrer"
+              rel="noopener noreferrer"
             >
               GitHub
             </a>
@@ -31,7 +31,7 @@ function App() {
             <a
               href="https://linkedin.com/in/sheyda-kate"
               target="_blank"
-              rel="nonopener noreferrer"
+              rel="noopener noreferrer"
             >
               Linked-In
             </a>

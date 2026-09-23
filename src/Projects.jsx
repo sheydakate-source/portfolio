@@ -1,9 +1,18 @@
+import projectpic from './assets/projectpic.png'
+
 function Projects() {
     return (
-        <section>
-            <h1>My Projects</h1>
-            <p>Coming Soon!</p>
+        <section className="projects">
+            <h1>Coming Soon!</h1>
+
+            <img 
+                className="projectPic" 
+                src={projectpic} 
+                alt="Coming Soon picture"
+            />
+
         </section>
+
     )
 }
 
