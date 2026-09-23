@@ -11,7 +11,7 @@ import { BrowserRouter } from 'react-router-dom'
 createRoot(document.getElementById('root')).render(
  //tells react what to display
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter  basename="/portfolio">
         <App />
     </BrowserRouter>
   </StrictMode>,
